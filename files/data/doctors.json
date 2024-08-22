@@ -1,0 +1,113 @@
+{
+   "data": [
+      {
+         "id": 1,
+         "isActive": true,
+         "name": "Mark Hill",
+         "info": "<p>Lorem ipsum dolor sit amet, conse ctetur.</p>",
+         "media": {
+            "avatar": "doctors/01.webp",
+            "main": "doctors/big/01.webp",
+            "gallery": {
+               "small": [
+                  {
+                     "gallery/01.webp": "Image description 1"
+                  },
+                  {
+                     "gallery/02.webp": "Image description 2"
+                  },
+                  {
+                     "gallery/03.webp": "Image description 3"
+                  },
+                  {
+                     "gallery/04.webp": "Image description 4"
+                  }
+               ],
+               "big": [
+                  "gallery/01.webp",
+                  "gallery/02.webp",
+                  "gallery/03.webp",
+                  "gallery/04.webp"
+               ]
+            }
+         },
+         "skills": {
+            "liposuction": 80,
+            "breast-augmentation": 90
+         },
+         "statistics": {
+            "staff": 23,
+            "doctors": 56,
+            "visits": 86
+         }
+      },
+      {
+         "id": 2,
+         "isActive": false,
+         "name": "Jane Cullen",
+         "info": "<p>Lorem ipsum dolor sit amet, conse ctetur.</p>",
+         "media": {
+            "avatar": "doctors/02.webp",
+            "main": "doctors/big/02.webp",
+            "gallery": {
+               "small": [
+                  {
+                     "gallery/01.webp": "Image description 1"
+                  },
+                  {
+                     "gallery/02.webp": "Image description 2"
+                  }
+               ],
+               "big": [
+                  "gallery/01.webp",
+                  "gallery/02.webp"
+               ]
+            }
+         },
+         "skills": {
+            "liposuction": 60
+         },
+         "statistics": {
+            "staff": 18,
+            "doctors": 45,
+            "visits": 75
+         }
+      },
+      {
+         "id": 3,
+         "isActive": false,
+         "name": "Annah Gaiver",
+         "info": "<p>Lorem ipsum dolor sit amet, conse ctetur.</p>",
+         "media": {
+            "avatar": "doctors/03.webp",
+            "main": "doctors/big/03.webp",
+            "gallery": {
+               "small": [
+                  {
+                     "gallery/01.webp": "Image description 1"
+                  },
+                  {
+                     "gallery/02.webp": "Image description 2"
+                  },
+                  {
+                     "gallery/03.webp": "Image description 3"
+                  }
+               ],
+               "big": [
+                  "gallery/01.webp",
+                  "gallery/02.webp",
+                  "gallery/03.webp"
+               ]
+            }
+         },
+         "skills": {
+            "liposuction": 40
+         },
+         "statistics": {
+            "staff": 30,
+            "doctors": 60,
+            "visits": 95
+         }
+      }
+   ]
+}
